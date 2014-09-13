@@ -1,4 +1,4 @@
-ldec-htmlhelp2-default
+HTML Help 2 Live Documenter Export Configuration File
 ======================
 
-LDEC HTML Help 2 export configuration file in the default style
+Export configuration file for the [Live Documenter](http://livedocumenter.com) application. Producing a HTML Help 2 file with a default style (currently MSDN-eque).
